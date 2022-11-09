@@ -1,0 +1,15 @@
+C:\Projects\Tests\LINQNetSeven\LINQNetSeven\bin\Debug\net7.0\LINQNetSeven.exe
+C:\Projects\Tests\LINQNetSeven\LINQNetSeven\bin\Debug\net7.0\LINQNetSeven.deps.json
+C:\Projects\Tests\LINQNetSeven\LINQNetSeven\bin\Debug\net7.0\LINQNetSeven.runtimeconfig.json
+C:\Projects\Tests\LINQNetSeven\LINQNetSeven\bin\Debug\net7.0\LINQNetSeven.dll
+C:\Projects\Tests\LINQNetSeven\LINQNetSeven\bin\Debug\net7.0\LINQNetSeven.pdb
+C:\Projects\Tests\LINQNetSeven\LINQNetSeven\obj\Debug\net7.0\LINQNetSeven.csproj.AssemblyReference.cache
+C:\Projects\Tests\LINQNetSeven\LINQNetSeven\obj\Debug\net7.0\LINQNetSeven.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Tests\LINQNetSeven\LINQNetSeven\obj\Debug\net7.0\LINQNetSeven.AssemblyInfoInputs.cache
+C:\Projects\Tests\LINQNetSeven\LINQNetSeven\obj\Debug\net7.0\LINQNetSeven.AssemblyInfo.cs
+C:\Projects\Tests\LINQNetSeven\LINQNetSeven\obj\Debug\net7.0\LINQNetSeven.csproj.CoreCompileInputs.cache
+C:\Projects\Tests\LINQNetSeven\LINQNetSeven\obj\Debug\net7.0\LINQNetSeven.dll
+C:\Projects\Tests\LINQNetSeven\LINQNetSeven\obj\Debug\net7.0\refint\LINQNetSeven.dll
+C:\Projects\Tests\LINQNetSeven\LINQNetSeven\obj\Debug\net7.0\LINQNetSeven.pdb
+C:\Projects\Tests\LINQNetSeven\LINQNetSeven\obj\Debug\net7.0\LINQNetSeven.genruntimeconfig.cache
+C:\Projects\Tests\LINQNetSeven\LINQNetSeven\obj\Debug\net7.0\ref\LINQNetSeven.dll
